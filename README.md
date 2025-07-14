@@ -38,8 +38,8 @@ This project is a modern chatbot that assists users with loan approval questions
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/loan-approval-rag-chatbot.git
-   cd loan-approval-rag-chatbot
+   git clone https://github.com/dwarkeshmishra/RAG-Q-A.git
+   cd RAG-Q-A
    ```
 
 2. **Create and Activate a Virtual Environment:**
