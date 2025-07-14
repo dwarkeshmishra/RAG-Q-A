@@ -2,6 +2,10 @@
 
 A professional, Retrieval-Augmented Generation (RAG) chatbot for intelligent loan approval guidance, combining document retrieval and generative AI. Powered by Groq's Llama-3 and Hugging Face's MiniLM, this app delivers accurate, context-rich answers for all your loan queries—no custom model training needed!
 
+#Live Project Link
+
+**https://rag-loan.streamlit.app/**
+
 ## 🚀 Overview
 
 This project is a modern chatbot that assists users with loan approval questions by leveraging:
