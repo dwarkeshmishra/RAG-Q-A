@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# Models and data
+models/
+vectorstore/
+data/
+*.pkl
+*.csv
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# macOS/Windows
+.DS_Store
+Thumbs.db
